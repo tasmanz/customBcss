@@ -1934,6 +1934,6 @@ tbody.collapse.in {
   clear: both;
 }
 
-#messageDetailsTable > td {
+#messageDetailsTable  td {
 padding: 10px;
 }
