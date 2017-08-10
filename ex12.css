@@ -1951,6 +1951,7 @@ td.hljs-ln-numbers {
 	border-right: 1px solid #CCC;
 	vertical-align: top;
 	padding-right: 5px;
+	 width: 20px;
 
 	/* your custom style here */
 }
@@ -1958,7 +1959,7 @@ td.hljs-ln-numbers {
 /* for block of code */
 td.hljs-ln-code {
 	padding-left: 10px;
-  width: 20px;
+ 
 }
 
 #msgTable{
