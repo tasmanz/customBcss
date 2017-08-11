@@ -1962,6 +1962,10 @@ td.hljs-ln-code {
  
 }
 
+.linenr-extended {
+width: 45px;
+}
+
 #msgTable{
 width : 1650px;
 }
